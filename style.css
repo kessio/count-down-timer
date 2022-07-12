@@ -1,0 +1,39 @@
+*{
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+    background-image: url(images/niklas-weiss-YtRWcobgiDM-unsplash.jpg);
+    justify-content: flex;
+    flex-direction: column;
+   
+}
+.count-down-section {
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.count-down-timer {
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+}
+.details {
+    padding-right: 18px;
+    font-weight: 500;
+    font-size: 17px;
+    font-weight: bold;
+}
+p {
+    font-weight: 1000;
+    font-size: 70px;
+}
+.counter {
+    margin-right: 60px;
+}
+.newyear {
+    display: none;
+}
